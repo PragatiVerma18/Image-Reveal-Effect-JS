@@ -1,0 +1,14 @@
+.image{
+  height: 800px;
+  width: 1000px;
+  background-attachment: fixed;
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-origin: padding-box;
+ background-image: url("1.jpg")
+}
+
+.h1 .h3{
+  line-height: 70px;
+}
